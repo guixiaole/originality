@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/myRepositories/!svn/ver/3/houduan/originality/config/spring
+END
+applicationContext-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myRepositories/!svn/ver/3/houduan/originality/config/spring/applicationContext-service.xml
+END
+springmvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myRepositories/!svn/ver/3/houduan/originality/config/spring/springmvc.xml
+END
+applicationContext-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myRepositories/!svn/ver/3/houduan/originality/config/spring/applicationContext-dao.xml
+END
+applicationContext-transaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/myRepositories/!svn/ver/3/houduan/originality/config/spring/applicationContext-transaction.xml
+END
