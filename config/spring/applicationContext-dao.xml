@@ -18,7 +18,7 @@
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
 		destroy-method="close">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql:///student?useUnicode=true&amp;characterEncoding=UTF-8" />
+		<property name="url" value="jdbc:mysql:///originality?useUnicode=true&amp;characterEncoding=UTF-8" />
 		<property name="username" value="root" />
 		<property name="password" value="616098292glqq" />
 		<property name="maxActive" value="10" />
@@ -35,5 +35,7 @@
 		<property name="basePackage" value="com.ssm.originality.mapper"></property>
 		<property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"></property>
 	</bean>
-
+    <!--  <bean id="adminMapper" class="com.ssm.originality.mapper.AdminMapper">
+     <property name="sqlSessionFactory" ref="sqlSessionFactory"></property>
+     </bean> -->
 </beans>
